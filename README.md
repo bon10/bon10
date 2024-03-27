@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a Startup company in Fukuoka Japan
 - 🌱 I’m currently learning TypeScript both of Frontend/Backend
 - 💬 Ask me about ...
